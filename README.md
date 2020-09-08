@@ -1,3 +1,3 @@
 # ColorfulImage
-一个基于图片处理的web
+一个用黑白图片上色的web
 url：http://39.100.31.86:8080/gadweb/
